@@ -23,7 +23,7 @@ subtitle = "Published work in journals, books, magazines, and more"
 [[feature]]
   icon = "question"
   icon_pack = "fas"
-  name = "Popular science/philosophy articles"
+  name = "Articles"
   description = "For non-academic audiences"  
 
 [[feature]]
