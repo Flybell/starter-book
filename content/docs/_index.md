@@ -1,6 +1,6 @@
 ---
-title: Docs
+title: Projects
 type: book  # Do not modify.
 ---
 
-Welcome to the _book_ template!
+Research, Teaching, Science Communication 
